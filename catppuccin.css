@@ -23,7 +23,6 @@
 body {
 	background-image: url("img/catppuccin-wall.png");
 	font-family: 'Iosevka', monospace;
-	color: #D9E0EE;
 	width: 100vw;
 	height: 100vh;
 	position: fixed;
